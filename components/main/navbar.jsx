@@ -48,7 +48,7 @@ export default function Navbar() {
         </div>
         <Navlink
           name={"Dashboard"}
-          href={"/home"}
+          href={"/"}
           icon={<ReportColumns strokeWidth={2} />}
         />
         <Navlink

@@ -16,7 +16,7 @@ export default function Home() {
         </span>
         <Link href={"/home"}>
           <Button
-            className="bg-teal-400 text-foreground font-semibold text-lg px-10 py-6 hover:bg-teal-200"
+            className="bg-cyan-400 text-foreground font-semibold text-lg px-10 py-6 hover:bg-teal-200"
             size="lg"
           >
             Get Started <ArrowRightIcon className="ml-2 h-4 w-4" />
