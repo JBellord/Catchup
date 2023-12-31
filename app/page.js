@@ -14,7 +14,7 @@ export default function Home() {
           Catch Up is great tool for keeping track of your books, movies and
           shows using tags and genres.
         </span>
-        <Link href={"/home"}>
+        <Link href={"/home/books"}>
           <Button
             className="bg-cyan-400 text-foreground font-semibold text-lg px-10 py-6 hover:bg-teal-200"
             size="lg"
